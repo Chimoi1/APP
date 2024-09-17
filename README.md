@@ -1,1 +1,1 @@
-![alt]("image.png")
+![alt](image.png)
